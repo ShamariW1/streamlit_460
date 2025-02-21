@@ -1,7 +1,7 @@
 import streamlit as st
 st.set_page_config(
 
-    page_title='Hello world',
+    page_title='Hello world :)',
     layout='centered',
     initial_sidebar_state='auto',
     menu_items={
@@ -11,4 +11,4 @@ st.set_page_config(
         }
 )
 st.sidebar.title('Hello world')
-st.title('Hello world')
+st.title('This is my Hello World App!')
